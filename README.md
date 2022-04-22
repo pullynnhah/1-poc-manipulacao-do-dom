@@ -6,7 +6,7 @@
 - Sua função é permitir que programas alterem a estrutura, estilo e conteúdo de documentos.
 - Sua representação se da por nós e objetos, forma de **árvore**. Com isso as linguagens de programação conseguem se conectar à página.
 
-![Exemplo do DOM](Manipulac%CC%A7a%CC%83o%20do%20DOM%20d868c9e7d78a458ca3ae0fced703daa3/dom.gif)
+![Exemplo do DOM](imagens/dom.gif)
 
 Exemplo do DOM
 
@@ -17,7 +17,7 @@ Exemplo do DOM
 - Representa a janela de navegador.
 - Todos os objetos globais JavaScript, funções e variáveis são membros da `window`.
 
-![O objeto `window`](Manipulac%CC%A7a%CC%83o%20do%20DOM%20d868c9e7d78a458ca3ae0fced703daa3/window-object.png)
+![O objeto `window`](imagens/window-object.png)
 
 O objeto `window`
 
@@ -28,7 +28,7 @@ O objeto `window`
     - `window.document`
     - `document`
 
-![O objeto `document`](Manipulac%CC%A7a%CC%83o%20do%20DOM%20d868c9e7d78a458ca3ae0fced703daa3/images.png)
+![O objeto `document`](imagens/images.png)
 
 O objeto `document`
 
